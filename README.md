@@ -1,2 +1,2 @@
-# Mindmeister Desktop Version
-Mindmeister.com Desktop Version build with Electron
+# duolingo_desktop
+duolingo desktop version

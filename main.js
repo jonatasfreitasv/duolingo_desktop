@@ -9,7 +9,7 @@ function createWindow () {
   mainWindow = new BrowserWindow({width: 800, height: 600});
   mainWindow.maximize();
 
-  mainWindow.loadURL('https://www.mindmeister.com/pt/account/login?product=1');
+  mainWindow.loadURL('https://www.duolingo.com');
 
   // Open the DevTools.
   //mainWindow.webContents.openDevTools()

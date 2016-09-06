@@ -1,8 +1,8 @@
 {
-  "name": "mindmeister-desktop",
-  "productName": "Mindmeister Desktop",
+  "name": "duolingo-desktop",
+  "productName": "Duolingo Desktop",
   "version": "1.0.0",
-  "description": "Mindmeister desktop version",
+  "description": "Duolingo desktop version",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonatasfreitasv/mindmesiter_desktop.git"
+    "url": "git+https://github.com/jonatasfreitasv/duolingo_desktop.git"
   },
   "keywords": [
     "mindmeister",
@@ -21,16 +21,16 @@
   "author": "Jonatas Freitas",
   "license": "",
   "bugs": {
-    "url": "https://github.com/jonatasfreitasv/mindmesiter_desktop/issues"
+    "url": "https://github.com/jonatasfreitasv/duolingo_desktop/issues"
   },
   "build": {
-    "appId": "mindmesiter_desktop.id",
-    "category": "mindmesiter.desktop.mindmap.app",
+    "appId": "duolingo_desktop.id",
+    "category": "duolingo.desktop.english.learning",
     "win": {
-      "iconUrl": "http://www.iconarchive.com/download/i89758/alecive/flatwoken/Apps-Mindmeister.ico"
+      "iconUrl": ""
     }
   },
-  "homepage": "https://github.com/jonatasfreitasv/mindmesiter_desktop#readme",
+  "homepage": "https://github.com/jonatasfreitasv/duolingo_desktop#readme",
   "devDependencies": {
     "electron-builder": "^5.34.1",
     "electron-packager": "^7.7.0",
